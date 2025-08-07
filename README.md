@@ -96,9 +96,9 @@ node index.js
 
 ---
 
-##🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 I'm Devansh Bhardwaj, a Full Stack Developer with 2.5+ years of experience in the MERN stack, passionate about building scalable applications, clean code, and learning new technologies.
 
 ---
 
-#THANK YOU 🙏
+# THANK YOU 🙏
