@@ -77,3 +77,5 @@ THRIFTY-AI-ASSESSMENT/
 ```bash
 git clone https://github.com/Devansh-bharadwaj/Thrifty-AI-Assessment.git
 cd thrifty-ai-assessment
+npm install
+node index.js
