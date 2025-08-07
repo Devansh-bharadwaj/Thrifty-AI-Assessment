@@ -77,5 +77,28 @@ THRIFTY-AI-ASSESSMENT/
 ```bash
 git clone https://github.com/Devansh-bharadwaj/Thrifty-AI-Assessment.git
 cd thrifty-ai-assessment
+```
+### Go to the task2 and task3 folder one by one and run the command:
+
+```bash
+cd task2-realtime-chat/backend
 npm install
 node index.js
+
+cd task2-realtime-chat/frontend
+npm install
+npm start
+
+cd task3-user-activity-api
+npm install
+node index.js
+```
+
+---
+
+##🙋‍♂️ About Me
+I'm Devansh Bhardwaj, a Full Stack Developer with 2.5+ years of experience in the MERN stack, passionate about building scalable applications, clean code, and learning new technologies.
+
+---
+
+#THANK YOU 🙏
